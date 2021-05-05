@@ -15,7 +15,7 @@ if ($vuser){
 		
 		echo "<script language='javascript'>
 alert('登录成功')
-location.href='../index.php'
+location.href='../index1.php'
 </script>";
 		
 	}else{
