@@ -7,7 +7,7 @@
     3、执行SQL*/
 	$time = time();
     $dsn = 'mysql:dbname=test;host=127.0.0.1';
-    $pdo = new PDO($dsn,'root','1234');
+    $pdo = new PDO($dsn,'root','123');
     
     //var_dump($pdo);
 
